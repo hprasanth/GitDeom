@@ -1,0 +1,14 @@
+dev:
+
+santhione -zonal
+santhitwor --regional
+santhitwob --regionalbranch
+santhioneb --zonal branch
+
+
+newqa:
+santhi -zonal
+regsanthiqa =regional
+zbranchqa- zonalbranch
+rbranchsanthiqa-regionalbranch
+
